@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import notFound from '../../assets/Images/notFound.png';
+import notFound from '../../assets/Images/NotFound.png';
 
 class NotFoundPage extends React.Component {
   constructor(props) {
