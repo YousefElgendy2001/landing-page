@@ -35,7 +35,7 @@ export default function NavBar() {
 
           {/* Navigation Links */}
           <div className={`md:flex hidden items-center gap-4`}>
-            <ul className="flex space-x-8 items-center">
+            <ul className="flex space-x-8 items-center border rounded-full px-4 py-2">
               <li className="nav-item">
                 <NavLink className="navLink rounded-full px-2" aria-current="page" to="/about">
                   اتصل بنا
