@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Lockup_Grid" data-name="Lockup Grid" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300.26 399.83">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: GESSUniqueBold-Bold, 'GE SS Unique';
+        font-size: 61.18px;
+      }
+
+      .cls-1, .cls-2 {
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 3.74px;
+      }
+
+      .cls-2 {
+        font-family: MontserratRoman-Bold, Montserrat;
+        font-size: 55.77px;
+        font-variation-settings: 'wght' 700;
+        letter-spacing: -.09em;
+      }
+    </style>
+  </defs>
+  <text class="cls-2" transform="translate(32.95 362.11) rotate(.2)"><tspan x="0" y="0">Muallimk</tspan></text>
+  <g>
+    <path class="cls-3" d="M162.71,177.02l-24.75,55.02-24.74-55.02h0s-24.75-55.02-24.75-55.02h0s-24.74-55.01-24.74-55.01c0,0,0-.01,0-.01h48.93c.34,0,.64.2.78.5l24.52,54.52,24.75,55.02s0,0,0,0Z"/>
+    <path class="cls-3" d="M88.46,122h0s-24.74,55.02-24.74,55.02l-24.6-54.68c-.1-.21-.1-.46,0-.67l24.59-54.67s.01,0,.01,0l24.73,54.99h0Z"/>
+    <path class="cls-3" d="M187.61,121.95l-24.98,54.92s-.01,0-.01,0l-24.53-55.06s0,0,0,0l24.97-54.96s.01,0,.01,0l24.55,55.09s0,0,0,0Z"/>
+    <path class="cls-3" d="M261.56,177.23l-24.94,54.93-24.55-55.11h0s-24.55-55.11-24.55-55.11h0s-24.46-55.1-24.46-55.1c0,0,0-.01,0-.01l48.84.17c.34,0,.64.2.78.51l24.32,54.6h0s24.55,55.11,24.55,55.11c0,0,0,0,0,0Z"/>
+  </g>
+  <text class="cls-1" transform="translate(138.37 314.28) rotate(.2)"><tspan x="0" y="0">ََلعُُ</tspan></text>
+</svg>
